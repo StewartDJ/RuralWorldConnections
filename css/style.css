@@ -443,10 +443,6 @@ h2 {
 
 #construction-container .card {
   display: inline-block;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 10px;
-  margin-top: 10px;
 }
 
 #construction-container .row {
@@ -510,5 +506,10 @@ h2 {
 #construction-banner img {
   width: 100%;
   margin-top: 0px;
+}
+
+.paddingAdditional {
+  margin: 20px;
+  padding: 20px;
 }
 /*# sourceMappingURL=style.css.map */
